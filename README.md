@@ -5,5 +5,5 @@ lineup.newbuy.app includes database integration and responsive design.
 
 
 - [x] make new CSS files
-- [ ] Change php myadmin column name
+- [x] Change php myadmin column name
 - [ ] contact Bill Gates
