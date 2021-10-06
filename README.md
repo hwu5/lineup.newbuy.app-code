@@ -4,5 +4,6 @@ code for lineup.newbuy.app
 lineup.newbuy.app includes database integration and responsive design.
 
 
-- [x] task 1
-- [ ] task 2
+- [x] make new CSS files
+- [ ] Change php myadmin column name
+- [ ] contact Bill Gates
